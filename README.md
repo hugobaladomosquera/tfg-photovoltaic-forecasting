@@ -37,7 +37,6 @@ tfg-photovoltaic-forecasting/
 ├── README.md
 ├── src/
 │   └── analisis_fotovoltaico.R   ← main analysis script
-├── figures/                      ← selected output plots
 ├── docs/
 │   └── TFG_GCED_Hugo_Balado.pdf  ← full thesis (Spanish)
 └── data/
